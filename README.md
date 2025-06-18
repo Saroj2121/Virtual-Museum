@@ -1,2 +1,2 @@
 # Virtual-Museum
-Tring to create virtual museum.
+Tryng to create virtual museum.
